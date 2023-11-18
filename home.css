@@ -1,0 +1,13 @@
+.mainheader {
+    border-radius: 20px;
+    background-color: plum;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.headerhyper {
+    color:white;
+    border-style:hidden;
+    border-color: purple;
+    border-radius: 2px;
+}
+
